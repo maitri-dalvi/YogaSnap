@@ -2,10 +2,7 @@
 A real-time yoga pose detector web application build using flask.
 "Align, Refine, and Feel the Divine – Yoga Mastery, Anytime!" -- our tagline
 
-![yogasnapcover](https://github.com/maitri-dalvi/YogaSnap/assets/144388185/38b3cee0-94c8-42a6-bbda-8aaa4fe50cb0)
-
-
-![yogasnaplogo](https://github.com/maitri-dalvi/YogaSnap/assets/144388185/48f69122-f43a-4b1c-b681-2eeec837d149)
+![yogasnapcover](https://github.com/maitri-dalvi/YogaSnap/assets/144388185/38b3cee0-94c8-42a6-bbda-8aaa4fe50cb0)    ![yogasnaplogo](https://github.com/maitri-dalvi/YogaSnap/assets/144388185/48f69122-f43a-4b1c-b681-2eeec837d149)
 
 
 Gone are the days of scheduling classes or relying on in-person instructors. YogaSnap is accessible at the user's convenience, making yoga practice flexible and adaptable to various schedules and locations.
