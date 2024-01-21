@@ -13,3 +13,4 @@ Many individuals, especially beginners, struggle with self-assurance in their yo
 In essence, YogaSnap isn't just a pose detector; it's a solution to the multifaceted challenges individuals face in their yoga practice, ushering in a new era of mindful, personalized, and accessible wellness.
 
 
+![Deeplobe-Pose-Detection-Yoga-Image-1024x683](https://github.com/maitri-dalvi/YogaSnap/assets/144388185/c379a18a-7cee-471b-bc2e-bb64d33e37fd)
