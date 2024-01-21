@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/posenet"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YogaSnap - Pose Detector</title>
+    <!-- Add your CSS styles here -->
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        #navbar {
+            background-color: #333;
+            padding: 15px;
+            color: white;
+            text-align: center;
+        }
+
+        #logo {
+            max-width: 100px;
+            max-height: 100px;
+            /* Add additional styling for your logo */
+        }
+
+        #camera-container {
+            display: flex;
+            justify-content: space-between;
+            padding: 20px;
+        }
+
+        #video-container {
+            width: 70%;
+        }
+
+        #logo-container {
+            width: 30%;
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+        }
+
+        #yoga-video {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navbar -->
+    <div id="navbar">
+        <!-- Adjust the logo path accordingly -->
+        <div id="logo-container">
+            <img id="logo" src="path/to/your/logo.png" alt="YogaSnap Logo">
+        </div>
+    </div>
+
+    <!-- Main content -->
+    <div id="camera-container">
+        <!-- Video container for camera -->
+        <div id="video-container">
+            <video id="yoga-video" autoplay playsinline></video>
+        </div>
+    </div>
+
+    <!-- Add your JavaScript libraries here (e.g., TensorFlow.js) -->
+    <!-- Make sure to include the necessary scripts for pose detection -->
+
+    <script>
+        // Add your JavaScript code for camera access and pose detection here
+        // Use a library like TensorFlow.js for pose detection
+        // Initialize the camera and pose detection, update the video element accordingly
+    </script>
+</body>
+</html>
