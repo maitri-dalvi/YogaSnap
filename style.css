@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #4c0035; /* Dark Pink Background Color */
+    color: white;
+}
+
+#navbar {
+    background-color: #e755b4; /* Darker Pink Navbar Color */
+    padding: 15px;
+    text-align: center;
+}
+
+#logo {
+    max-width: 100px;
+    max-height: 100px;
+    /* Add additional styling for your logo */
+}
+
+#camera-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+#video-container {
+    width: 70%;
+}
+
+#logo-container {
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+#yoga-video {
+    width: 100%;
+    height: auto;
+}
+
+/* Add more styles as needed */
