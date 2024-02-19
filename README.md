@@ -5,7 +5,7 @@ A real-time yoga pose detector web application build using flask.
 ![yogasnapcover](https://github.com/maitri-dalvi/YogaSnap/assets/144388185/38b3cee0-94c8-42a6-bbda-8aaa4fe50cb0)                     
 
 <div align="center">
-    <img src="[example.svg](https://github.com/maitri-dalvi/YogaSnap/assets/144388185/38b3cee0-94c8-42a6-bbda-8aaa4fe50cb0)" width="400" height="400" alt="cover">
+    <img src="C:\Users\Maitri\Desktop\HackHers\YogaSnap\yogasnapcover.png" alt="cover">
 </div>
 
 ![yogasnaplogo](https://github.com/maitri-dalvi/YogaSnap/assets/144388185/48f69122-f43a-4b1c-b681-2eeec837d149)
